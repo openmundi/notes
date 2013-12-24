@@ -1,4 +1,2 @@
-notes
-=====
+# Open Mundi (world.db) Notes
 
-Open Mundi (world.db) Notes
